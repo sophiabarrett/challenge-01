@@ -1,4 +1,4 @@
-# Horiseon Accessibility Refractor
+# Horiseon Accessibility Refactor
 
 ## Description
 Update Horiseon's website codebase to meet accessibilty standards.
@@ -11,11 +11,11 @@ Update Horiseon's website codebase to meet accessibilty standards.
 ![Horiseon website mockup](./assets/images/horiseon-mockup.png "Horiseon website mockup")
 
 ## Link to Deployed Application
-https://sophiabarrett.github.io/horiseon-accessibility-refractor/
+https://sophiabarrett.github.io/horiseon-accessibility-refactor/
 
 ## Contribution
 * Original site built by Horiseon Social Solution Services, Inc.
-* Accessibility refractor by Sophia Barrett
+* Refactored for accessibility by Sophia Barrett
 
 ---
 © 2019 Horiseon Social Solution Services, Inc.
