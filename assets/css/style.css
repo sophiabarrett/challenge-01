@@ -32,29 +32,29 @@ p {
 /* End Utility Classes */
 
 /* Header Styles */
-.header {
+header {
     padding: 20px;
     background-color: #2a607c;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-size: 20px;
 }
 
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -121,7 +121,7 @@ p {
 /* End Benefits Section Styles */
 
 /* Footer Style */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -129,7 +129,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 /* End Footer Styles */

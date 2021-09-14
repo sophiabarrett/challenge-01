@@ -1,7 +1,7 @@
 # Horiseon Accessibility Refractor
 
 ## Description
-Updated Horiseon's website codebase to meet accessibilty standards.
+Update Horiseon's website codebase to meet accessibilty standards.
 
 ## Built With
 * HTML
@@ -14,8 +14,8 @@ Updated Horiseon's website codebase to meet accessibilty standards.
 https://sophiabarrett.github.io/horiseon-accessibility-refractor/
 
 ## Contribution
-*Original site built by Horiseon Social Solution Services, Inc.
-*Accessibility refractor by Sophia Barrett
+* Original site built by Horiseon Social Solution Services, Inc.
+* Accessibility refractor by Sophia Barrett
 
 ---
 © 2019 Horiseon Social Solution Services, Inc.
